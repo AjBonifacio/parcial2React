@@ -5,6 +5,7 @@
       "expo-router"
     ],
     "name": "ParcialReact",
-    "slug": "ParcialReact"
+    "slug": "ParcialReact",
+    "newArchEnabled": true
   }
 }
